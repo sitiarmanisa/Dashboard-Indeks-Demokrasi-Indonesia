@@ -8,11 +8,12 @@
 <p align="justify">Adapun data yang digunakan pada proyek ini bersumber dari website Badan Pusat Statistik yang diakses dari website resmi BPS (https://www.bps.go.id) berupa : </p>
 <p align="justify">- Indeks Demokrasi Indonesia secara nasional dari tahun 2009 s.d. 2020</p>
 <p align="justify">- Indeks Demokrasi Indonesia menurut provinsi dari tahun 2018 s.d. 2020</p>
-<p align="justify">- Indeks Demokrasi Indonesia menurut aspek provinsi dari tahun 2018 s.d. 2020. Aspek yang dimaksud adalah aspek kebebasan sipil, aspek hak-hak politik, dan aspek lembaga demokrasi. </p>
+<p align="justify">- Indeks Demokrasi Indonesia menurut aspek provinsi dari tahun 2018 s.d. 2020. </p>
+ <p> Aspek yang dimaksud adalah aspek kebebasan sipil, aspek hak-hak politik, dan aspek lembaga demokrasi. </p>
 
 <br></br>
 
-<h2>Tahapan Penelitian</h2>
+<h2> Perancangan Dashboard </h2>
 <h3>Preprocessing</h3>
 <p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data dengan menggunakan tools Mircosoft Excel. Data yang dikumpulkan melalui website BPS tadi belum rapi dan belum siap untuk pengolahan selanjutnya. Maka dari itu dilakukanlah filtering dan pengelompokan data  sehingga data yang digunakan menjadi rapi dan siap untuk divisualisasikan. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Data yang telah dipreprocessing dapat diakses melalui : https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/DATA.xlsx </p>
 <br></br>
@@ -20,21 +21,21 @@
 <h3>Visualisasi Data</h3>
 <p align="justify">Data yang telah selesai dilakukan preprocessing, selanjutnya dilakukan visualisasi. Namun sebelum itu, dilakukan juga identifikasi teknik visualisasi data yang tepat untuk ditampilkan pada dashboard. </p>
 <p>Jenis visualisasi yang digunakan adalah :</p>
-<p> * Peta Tematik (maps) </p>
-<p> * Line Chart </p>
-<p> * Bar Chart (Horizontal Bar dan Vertical Bar) </p>
-<p> * Tree map </p>
-<p> * Bubble map </p>
-<p> * Text </p>
+<p> - Peta Tematik (maps) </p>
+<p> - Line Chart </p>
+<p> - Bar Chart (Horizontal Bar dan Vertical Bar) </p>
+<p> - Tree map </p>
+<p> - Bubble map </p>
+<p> - Text </p>
 <p > Dengan menggunakan data yang sudah dilakukan preprocessing data, kemudian visualisasi data dibangun pada Software Tableau sesuai dengan teknik visualisasi data yang sudah diidentifikasi sebelumnya. </p>
 <br></br>
  
 <h3> Pembuatan Dashboard</h3>
-<p align="justify"> Berbagai macam bentuk visualisasi yang telah dibuat disatukan dalam Dashboard. Dalam hal ini dibuat sebanyak 3 buah dashboard sesuai masing masing dimensi yang kemudian disatukan dengan navigasi. Pada tahapan ini juga dilakukan modifikasi terhadap visualisasi yang telah dibuat, yaitu dengan memerhatikan harmonisasi warna dan tata letak.</p>
+<p align="justify"> Setelah seluruh visualisasi data dibuat, selanjutnya adalah menyatukan seluruh visualisasi tersebut ke dalam dashboard. Dalam pembuatan dashboard perlu diperhatikan terkait harmonisasi warna dan tata letak. Peneliti menggunakan  ukuran dashboard 1800x2000 (dalam satuan pixel). Ukuran ini dipilih karena dapat memudahkan pembaca melihat visualisasi secara jelas dan terdapat vitur scrollbar secara horizontal dan vertical.</p>
 <br></br>
 
 <h2> HASIL DASHBOARD INFORMASI INDEKS DEMOKRASI INDONESIA (IDI) </h2>
-<p>Dashboard dapat diakses secara daring melalui link  https://public.tableau.com/app/profile/siti.armanisa/viz/DashboardIDI/Dashboard2 </p>
+<p> Dashboard dapat diakses secara daring melalui link  https://public.tableau.com/app/profile/siti.armanisa/viz/DashboardIDI/Dashboard2 </p>
 <br> </br>
 
 <h2>Tampilan Dashboard</h2>
@@ -46,8 +47,8 @@
   
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
-<p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
-<p align="justify"> - Filter data : Untuk menampilkan data sesuai tahun, provinsi dan kategori yang diinginkan</p>
+<p> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
+<p> - Filter data : Untuk menampilkan data sesuai tahun, provinsi dan kategori yang diinginkan</p>
 <br></br>
 
 <h2>Publikasi Dashboard Tableau</h2>
