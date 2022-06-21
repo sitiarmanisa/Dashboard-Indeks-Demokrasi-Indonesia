@@ -15,7 +15,7 @@
 
 <h2> Perancangan Dashboard </h2>
 
-<h3>Preprocessing</h3>
+<h3>Pre-processing</h3>
 <p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data dengan menggunakan tools Mircosoft Excel. Data yang dikumpulkan melalui website BPS tadi belum rapi dan belum siap untuk pengolahan selanjutnya. Maka dari itu dilakukanlah filtering dan pengelompokan data  sehingga data yang digunakan menjadi rapi dan siap untuk divisualisasikan. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Data yang telah dipreprocessing dapat diakses melalui : https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/DATA.xlsx </p>
 <br></br>
 
@@ -53,7 +53,7 @@
 <br> </br>
 
 <h2> Publikasi Dashboard Tableau </h2>
-<p align="justify"> Langkah terakhir adalah mempublikasikan dashboard. Dalam hal ini, peneliti memanfaatkan fitur yang ada di Tableau, yaitu publikasi via Tableau Public. </p>
+<p align="justify"> Langkah terakhir adalah mempublikasikan dashboard. Dalam hal ini, peneliti memanfaatkan fitur yang ada di Tableau, yaitu publikasi via Tableau Public yang dapat diakses pada link : https://public.tableau.com/app/profile/siti.armanisa/viz/DashboardIDI/Dashboard2 </p>
 <br> </br>
 
 <!-- CONTACT -->
