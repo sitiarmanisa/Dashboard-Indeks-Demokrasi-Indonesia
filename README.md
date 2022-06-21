@@ -26,7 +26,7 @@
 
 <h2>Tampilan Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/Dashboard.png width ="900" height="1000"/>
+  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/Dashboard.png" width ="900" height="1000"/>
   </p>
   
 <h2> Tambahan pada Dashboard</h2>
