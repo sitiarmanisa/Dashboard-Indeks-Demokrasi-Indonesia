@@ -41,7 +41,7 @@
 
 <h2>Tampilan Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part1.png" width ="900" height="400"/>
+  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part1.png" width ="900" height="385"/>
   <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part2.png" width ="900" height="600"/>
   <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part3.png" width ="900" height="375"/>
 </p>
