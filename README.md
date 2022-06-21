@@ -42,23 +42,24 @@
 <h2>Tampilan Dashboard</h2>
 <p align="center">
   <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part1.png" width ="900" height="400"/>
-   <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part2.png" width ="900" height="600"/>
-    <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part3.png" width ="900" height="375"/>
-  </p>
+  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part2.png" width ="900" height="600"/>
+  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part3.png" width ="900" height="375"/>
+</p>
   
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
 <p> - Filter data : Untuk menampilkan data sesuai tahun, provinsi dan kategori yang diinginkan</p>
-<br></br>
+<br> </br>
 
-<h2>Publikasi Dashboard Tableau</h2>
+<h2> Publikasi Dashboard Tableau </h2>
 <p align="justify"> Langkah terakhir adalah mempublikasikan dashboard. Dalam hal ini, peneliti memanfaatkan fitur yang ada di Tableau, yaitu publikasi via Tableau Public. </p>
-<br></br>
+<br> </br>
 
 <!-- CONTACT -->
 ## Contact
 
+Nama : Siti Armanisa
 Email: 221911180@stis.ac.id\
-Project Link: 
+Project Link: https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia 
 
