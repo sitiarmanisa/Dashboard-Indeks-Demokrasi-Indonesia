@@ -8,7 +8,7 @@
 <p align="justify">Adapun data yang digunakan pada proyek ini bersumber dari website Badan Pusat Statistik yang diakses dari website resmi BPS (https://www.bps.go.id) berupa : </p>
 <p align="justify">- Indeks Demokrasi Indonesia secara nasional dari tahun 2009 s.d. 2020</p>
 <p align="justify">- Indeks Demokrasi Indonesia menurut provinsi dari tahun 2018 s.d. 2020</p>
-<p align="justify">- Indeks Demokrasi Indonesia menurut aspek provinsi dari tahun 2018 s.d. 2020. <p>
+<p align="justify">- Indeks Demokrasi Indonesia menurut aspek provinsi dari tahun 2018 s.d. 2020. </p>
 <p> Aspek yang dimaksud adalah aspek kebebasan sipil, aspek hak-hak politik, dan aspek lembaga demokrasi. </p>
 
 <br></br>
