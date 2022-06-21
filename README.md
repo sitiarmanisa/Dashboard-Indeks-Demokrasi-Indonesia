@@ -2,13 +2,13 @@
 <h1 align="center"> DASHBOARD INFORMASI INDEKS DEMOKRASI INDONESIA (IDI) </h1>
 <p align="center">(Siti Armanisa, 221911180)</p>
 <p align="justify">  Indeks Demokrasi Indonesia (IDI) merupakan alat ukur demokrasi di Indonesia untuk membaca capaian dan menyusun program perencanaan dalam pembangunan politik. Visualisasi data merupakan salah satu cara dalam menyampaikan pengetahuan terkait suatu data kepada orang lain melalui bentuk visual. Visualisasi data dilakukan agar pembaca dapat memahami dengan jelas informasi dan pengetahuan dari data yang ada. Data Indeks Demokrasi Indonesia (IDI) secara nasional, menurut provinsi dan berdasarkan aspek indeks demokrasi, yaitu aspek hak-hak politik, aspek kebebasan sipil, dan aspek lembaga demokrasi dapat dilihat publikasinya dalam bentuk tabel, infografis, dan publikasi buku yang dikeluarkan oleh BPS. Namun, saat ini belum ada portal publikasi berupa dashboard informasi yang menampilkan data Indeks Demokrasi Indonesia (IDI). Dashboard informasi ini diharapkan dapat memudahkan Pemerintah Indonesia dan Pemerintah Daerah dalam memantau perkembangan dan penerapan demokrasi di Indonesia.  </p>
-<p align="justify"> Oleh sebab itu peneliti ingin membangun dashboard visualisasi data yang berisi informasi Indeks Demokrasi Indonesia (IDI) dengan platform Tableau. Penelitian ini berjudul “Dashboard Informasi Indeks Demokrasi Indonesia (IDI)”. Dashboard Informasi Indeks Demokrasi Indonesia akan berisi informasi mengaenai IDI secara nasional, menurut provinsi dan  berdasarkan aspek indeks demokrasi, yaitu aspek hak-hak politik, aspek kebebasan sipil, dan aspek lembaga demokrasi</p>
+<p align="justify"> Oleh sebab itu peneliti ingin membangun dashboard visualisasi data yang berisi informasi Indeks Demokrasi Indonesia (IDI) dengan platform Tableau. Penelitian ini berjudul “Dashboard Informasi Indeks Demokrasi Indonesia (IDI)”. Dashboard Informasi Indeks Demokrasi Indonesia akan berisi informasi mengenai IDI secara nasional, menurut provinsi dan  berdasarkan aspek indeks demokrasi, yaitu aspek hak-hak politik, aspek kebebasan sipil, dan aspek lembaga demokrasi. </p>
 
 <h2 align="justify">Data yang digunakan</h2>
 <p align="justify">Adapun data yang digunakan pada proyek ini bersumber dari website Badan Pusat Statistik yang diakses dari website resmi BPS (https://www.bps.go.id) berupa : </p>
 <p align="justify">- Indeks Demokrasi Indonesia secara nasional dari tahun 2009 s.d. 2020</p>
 <p align="justify">- Indeks Demokrasi Indonesia menurut provinsi dari tahun 2018 s.d. 2020</p>
-<p align="justify">- Indeks Demokrasi Indonesia menurut aspek provinsi dari tahun 2018 s.d. 2020. </p>
+<p align="justify">- Indeks Demokrasi Indonesia menurut aspek provinsi dari tahun 2018 s.d. 2020. <p>
 <p> Aspek yang dimaksud adalah aspek kebebasan sipil, aspek hak-hak politik, dan aspek lembaga demokrasi. </p>
 
 <br></br>
