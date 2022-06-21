@@ -56,9 +56,9 @@
 <p align="justify"> Langkah terakhir adalah mempublikasikan dashboard. Dalam hal ini, peneliti memanfaatkan fitur yang ada di Tableau, yaitu publikasi via Tableau Public yang dapat diakses pada link : https://public.tableau.com/app/profile/siti.armanisa/viz/DashboardIDI/Dashboard2 </p>
 <br> </br>
 
-<!-- CONTACT -->
+<h2> Contact </h2>
 
-Email: 221911180@stis.ac.id\
+Email: 221911180@stis.ac.id
 <p> Nama : Siti Armanisa </p>
 Project Link: https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia 
 
