@@ -59,7 +59,6 @@
 <!-- CONTACT -->
 ## Contact
 
-Nama : Siti Armanisa
-Email: 221911180@stis.ac.id\
+Email: 221911180@stis.ac.id\ (Siti Armanisa)
 Project Link: https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia 
 
