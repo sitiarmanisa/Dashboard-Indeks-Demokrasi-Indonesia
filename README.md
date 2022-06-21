@@ -26,7 +26,13 @@
 
 <h2>Tampilan Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/Dashboard.png" width ="1800" height="2000"/>
+  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part1.png" width ="900" height="500"/>
+  </p>
+  <p align="center">
+  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part2.png" width ="900" height="700"/>
+  </p>
+   <p align="center">
+  <img src="https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/dashboard%20part3.png" width ="900" height="700"/>
   </p>
   
 <h2> Tambahan pada Dashboard</h2>
