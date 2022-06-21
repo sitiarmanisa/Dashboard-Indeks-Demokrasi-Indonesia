@@ -14,11 +14,19 @@
 
 <h2>Tahapan Penelitian</h2>
 <h3>Preprocessing</h3>
-<p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data. Dalam hal ini digunakan software Mircosoft Excel sebagai sarana pengelompokkan data. Data dikelompokkan berdasarkan jenis visualisasi yang akan dibuat. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Selain itu juga dibuat beberapa kolom baru sebagai filter yang akan digunakan pada dashboard. Data yang telah dipreprocessing dapat diakses melalui : https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/DATA.xlsx </p>
+<p align="justify">Pada tahapan ini dilakukan preprocessing data dengan cara mengubah format tabel menjadi long data dengan menggunakan tools Mircosoft Excel. Data yang dikumpulkan melalui website BPS tadi belum rapi dan belum siap untuk pengolahan selanjutnya. Maka dari itu dilakukanlah filtering dan pengelompokan data  sehingga data yang digunakan menjadi rapi dan siap untuk divisualisasikan. Data juga diseleksi untuk menghilangkan informasi yang tidak dibutuhkan pada visualisasi yang akan dibuat. Data yang telah dipreprocessing dapat diakses melalui : https://github.com/sitiarmanisa/Dashboard-Indeks-Demokrasi-Indonesia/blob/master/DATA.xlsx </p>
 <br></br>
 
 <h3>Visualisasi Data</h3>
-<p align="justify">Data yang telah selesai dilakukan preprocessing, selanjutnya dilakukan visualisasi. Namun sebelum itu, dilakukan juga identifikasi teknik visualisasi data yang tepat untuk ditampilkan pada dashboard. Beberapa teknik visualisasi data yang dipilih antara lain adalah treemap, circle chart, line chart, horizontal bar chart, donut chart, dan thematic map. Dengan menggunakan data yang sudah dilakukan preprocessing data, kemudian visualisasi data dibangun pada Software Tableau sesuai dengan teknik visualisasi data yang sudah diidentifikasi sebelumnya. </p>
+<p align="justify">Data yang telah selesai dilakukan preprocessing, selanjutnya dilakukan visualisasi. Namun sebelum itu, dilakukan juga identifikasi teknik visualisasi data yang tepat untuk ditampilkan pada dashboard. </p>
+<p>Jenis visualisasi yang digunakan adalah :</p>
+<p> * Peta Tematik (maps) </p>
+<p> * Line Chart </p>
+<p> * Bar Chart (Horizontal Bar dan Vertical Bar) </p>
+<p> * Tree map </p>
+<p> * Bubble map </p>
+<p> * Text </p>
+<p > Dengan menggunakan data yang sudah dilakukan preprocessing data, kemudian visualisasi data dibangun pada Software Tableau sesuai dengan teknik visualisasi data yang sudah diidentifikasi sebelumnya. </p>
 <br></br>
  
 <h3> Pembuatan Dashboard</h3>
@@ -39,13 +47,10 @@
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
-<p align="justify"> - Filter Tahun : Untuk menampilkan data sesuai tahun, provinsi dan kategori yang diinginkan</p>
+<p align="justify"> - Filter data : Untuk menampilkan data sesuai tahun, provinsi dan kategori yang diinginkan</p>
 <br></br>
 
 <h2>Publikasi Dashboard Tableau</h2>
 <p align="justify"> Langkah terakhir adalah mempublikasikan dashboard. Dalam hal ini, peneliti memanfaatkan fitur yang ada di Tableau, yaitu publikasi via Tableau Public. </p>
 <br></br>
 
-<h2>Workbook Project Tableau</h2>
-<p align="justify">Berikut ini adalah link untuk mengakses workbook tableau yang dikerjakan : </p>
-<br></br>
